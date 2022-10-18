@@ -17,10 +17,11 @@ body {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
-  max-width: 640px;
+  max-width: 680px;
 }
 
 .square {
+  margin: 1px;
   background-color: #1d1d1d;
   box-shadow: 0 0 2px black;
   height: 25px;
